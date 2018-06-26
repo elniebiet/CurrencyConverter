@@ -1,0 +1,16 @@
+<style>
+.feature-box {
+  text-align: center;
+  width: 400px;
+}
+
+.feature-box .title {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin-bottom: 6px;
+}
+
+.feature-box .desc {
+  
+}
+</style>
