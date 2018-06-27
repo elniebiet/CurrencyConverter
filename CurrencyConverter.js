@@ -66,8 +66,4 @@ async function getCurrencies(){
 		}
 		else break;
 	}
-	// for(let j=0; j<currencies.length; j++){
-	// 	document.write(currencies[j]);
-	// 	document.write('\n');
-	// }
 }
