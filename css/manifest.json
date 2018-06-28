@@ -1,0 +1,16 @@
+{
+  "name": "CurrentConverter",
+  "short_name": "CC",
+  "lang": "en-US",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "img/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ], 
+  "background_color": "#1BBCB4"
+}
